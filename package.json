@@ -1,6 +1,6 @@
 {
-  "homepage": "https://RitikDiyundi.github.io/UI_Silverline",
-  "name": "developerfolio",
+  "homepage": "/UI_Silverline",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
